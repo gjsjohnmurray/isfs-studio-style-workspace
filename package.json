@@ -2,7 +2,7 @@
   "name": "isfs-studio-style-workspace",
   "displayName": "InterSystems Studio-style Workspace Creator",
   "description": "Add a set of folders to your workspace that replicates the structure presented in InterSystems Studio",
-  "version": "0.0.1-SNAPSHOT",
+  "version": "1.0.0",
   "publisher": "georgejames",
   "engines": {
     "vscode": "^1.92.0"
